@@ -3,7 +3,7 @@
 <DL><p>
     <DL><p>
         <DL><p>
-            <DT><H3 >学习</H3>
+            <DT><H3 >学习</H2>
             <DL><p>
                 <DT><H3 >设计</H3>
                 <DL><p>
@@ -52,22 +52,8 @@
                 <DT><A HREF="https://www.pluralsight.com/trainsimple"  >https://www.pluralsight.com/trainsimple</A>
                 <DT><A HREF="https://www.invisionapp.com/craft#prototype"  >Craft | InVision</A>
             </DL><p>
-            <DT><H3 >工作</H3>
+            <DT><H3 > </H2>
             <DL><p>
-                <DT><H3 >创业</H3>
-                <DL><p>
-                    <DT><A HREF="http://www.9ask.cn/souask/q/q2553724.htm"  >关于离职公司扣工资问题-免费法律咨询-中顾法律网(中国第一法律门户)</A>
-                    <DT><A HREF="http://neocha.com/magazine/"  >Neocha – Culture &amp; Creativity in Asia</A>
-                    <DT><A HREF="http://edge.neocha.com/zh" >新茶锋潮 /// 共享中国创意</A>
-                    <DT><A HREF="http://www.showeb20.com/"  >分享网络2.0 - 互联网是彩色的！</A>
-                </DL><p>
-                <DT><H3 >邮箱</H3>
-                <DL><p>
-                    <DT><A HREF="http://mail.163.com/" >网易163免费邮--中文邮箱第一品牌</A>
-                    <DT><A HREF="https://worktile.com/teams/52d34d0726d54d5e8a43162c17e698e8"  >主页 | 摩虎Tech - Worktile</A>
-                    <DT><A HREF="http://mail.mallog.cn/cgi-bin/loginpage?s=session_timeout&from=&r=0a7b224ddf8031aa2aae4125bc1f5faf"  >登录企业邮箱</A>
-                    <DT><A HREF="http://exmail.qq.com/login" >腾讯企业邮</A>
-                </DL><p>
                 <DT><H3 >ppt</H3>
                 <DL><p>
                     <DT><A HREF="http://www.uisdc.com/great-little-known-ppt-tools"  >超实用！有哪些鲜为人知却好用到爆的PPT辅助工具？（已打包）</A>
@@ -89,7 +75,7 @@
                     <DT><A HREF="https://github.com/luosijie/vue-resume"  >GitHub - luosijie/vue-resume: Resume template based on Vue</A>
                 </DL><p>
             </DL><p>
-            <DT><H3 >软件/工具</H3>
+            <DT><H3 >软件/工具</H2>
             <DL><p>
                 <DT><H3 >建模</H3>
                 <DL><p>
@@ -111,7 +97,7 @@
                     <DT><A HREF="https://bitbucket.org/product"  >Bitbucket | The Git solution for professional teams</A>
                 </DL><p>
             </DL><p>
-            <DT><H3 >互联网产品</H3>
+            <DT><H3 >互联网产品</H2>
             <DL><p>
                 <DT><H3 >H5策划</H3>
                 <DL><p>
@@ -227,21 +213,6 @@
                         <DT><A HREF="http://ictclas.nlpir.org/nlpir/" >语义分析系统</A>
                         <DT><A HREF="https://linguakit.com/en/?utm_campaign=elearningindustry.com" >Linguakit</A>
                     </DL><p>
-                    <DT><H3 >行业解决方案</H3>
-                    <DL><p>
-                        <DT><H3 >停车场</H3>
-                        <DL><p>
-                            <DT><A HREF="https://pay.weixin.qq.com/material/brand.shtml" >设计指引 - 微信支付</A>
-                            <DT><A HREF="http://ol.weixin.qq.com/public/demo/parking/parking_discount/confirm.html" >确认缴费</A>
-                        </DL><p>
-                        <DT><H3 >校园</H3>
-                        <DL><p>
-                            <DT><A HREF="http://mp.weixin.qq.com/s?src=3&timestamp=1486951970&ver=1&signature=95-mfHiuSMqxHyzfU4xvBRikFbca5DRA9xlEv4YvXRAu9PA41YUPYbcuHeCGB6FX*IhpnkqIUxhvZq93miDXZokrTNa0Lvbv4pK4Hckht4h1IS3QmaTMXhtlgGfgREeil-czex9AHvN2kqMAlfLWfw==" >智慧校园: 一卡通完整解决方案(PPT)</A>
-                            <DT><A HREF="http://mp.weixin.qq.com/s?src=3&timestamp=1486950352&ver=1&signature=95-mfHiuSMqxHyzfU4xvBRikFbca5DRA9xlEv4YvXRC1t7xrqmZtlsXTANeaBjjOwQXyFk3xi4vSXQC*YU40Duc0yXSjgkiyzSF7W2RzRPXBfxAC-WVKkXxLV735acxmXH630wmw2cIrwJrcjXYFHw==" >智慧校园: 建设规划方案(图文)</A>
-                            <DT><A HREF="http://mp.weixin.qq.com/s?src=3&timestamp=1486950223&ver=1&signature=pETDlE7dxJEwtzQvESNkLhxK71dnMqA2Zj*z5Z18gLtPL0pp5jpjhDZo0xZc1EtY-WUMBYlwPIrTQMA4L*mr2YNTN7*HKbaSZ*bJaXYnOqkX0AbvJpTJO*TYEJlXukZDEa-9X-UNxk*n-B78BDU8EQF9uBNgAxRhi51TYKSq*1A=" >腾讯QQ智慧校园免费公开课来袭 错过连回放都没有</A>
-                            <DT><A HREF="http://ln.qq.com/a/20160224/031428.htm" >腾讯发布“智慧校园”解决方案_大辽网_腾讯网</A>
-                            <DT><A HREF="http://zj.qq.com/education/ZHXYH5.htm" >腾讯智慧校园</A>
-                        </DL><p>
                         <DT><H3 >商业中心</H3>
                         <DL><p>
                             <DT><A HREF="http://mp.weixin.qq.com/s?src=3&timestamp=1487208563&ver=1&signature=Ghk9FZsRav6d1isj6iQQSC6gvLuGUiYmpSgcGtztkgEQ79FMTLanKKsSGA5hJGn0VNBji9yZqtRZMQn3J-XBPvaI2xVVH8lrHVkEL8Xc15xBJ0iBnWyPODZawZb993dwIlbKwob2goUSb7JG*nm3p7DQBO1fdvy80g2NfMionaI=" >智慧城市建设（CBD商业中心/ 智慧景区/智慧公交）</A>
@@ -1502,144 +1473,8 @@
             </DL><p>
             <DT><H3 >比赛</H3>
             <DL><p>
-                <DT><A HREF="http://hd.maxthon.cn/" >傲游 让自由前所未有——精彩大奖等你拿！</A>
                 <DT><A HREF="http://www.curioos.com/sakiroo/Special-Sports/I-love-Soccer-/000005732/"  >Curioos | Digital Art Publishing House | Limited Edition Prints</A>
-                <DT><A HREF="http://i.maxthon.cn/"  >Maxthon - 傲游起始页</A>
-                <DT><A HREF="http://www.myiq.cn/" >iQ浏览器 - The Smart Browser</A>
-                <DT><A HREF="http://my.opera.com/community/"  >Opera Community</A>
-            </DL><p>
-            <DT><H3 >资料搜集</H3>
-            <DL><p>
-                <DT><H3 >背景和现状</H3>
-                <DL><p>
-                    <DT><A HREF="http://news.xinhuanet.com/newmedia/2015-07/14/c_134411253.htm" >微信公众号的现状、类型及发展趋势-新华网</A>
-                    <DT><A HREF="http://mt.sohu.com/20160613/n454138912.shtml" >企业为什么要做自己的APP？-搜狐</A>
-                </DL><p>
-                <DT><H3 >o2o</H3>
-                <DL><p>
-                    <DT><A HREF="http://blog.csdn.net/hyg_shen_hua/article/details/43925091" >微信ibeacon使用场景步骤总结 - Daniel Hwang的专栏 - 博客频道 - CSDN.NET</A>
-                    <DT><A HREF="https://www.zhihu.com/question/20624296" >互联网的闭环到底是什么？ - 知乎</A>
-                </DL><p>
-                <DT><H3 >会员体系</H3>
-                <DL><p>
-                    <DT><A HREF="http://blog.sina.com.cn/s/blog_6a0869920102wisv.html" >微信会员系统怎么建_餐饮资料库_新浪博客</A>
-                    <DT><A HREF="http://bbs.paidai.com/topic/233049" >微信公共平台会员管理系统详解（派代网）</A>
-                    <DT><A HREF="http://www.pmcaff.com/article/index/615629133846656?from=related&pmc_param%5Bentry_id%5D=482452025759808" >P2P平台积分与会员体系设计的调查与思考 - PMCAFF产品经理社区</A>
-                    <DT><A HREF="http://www.chanpin100.com/article/100700" >如何规划会员体系？这两大类分支你应该了解 | 产品壹佰</A>
-                    <DT><A HREF="http://tieba.baidu.com/p/4168705088" >【口袋官方】新版成长值、会员等级、积分说明_口袋理财吧_百度贴吧</A>
-                    <DT><A HREF="https://www.zhihu.com/question/19760734" >积分体系应该如何规划？ - 知乎</A>
-                    <DT><A HREF="https://www.zhihu.com/question/26101705" >如何设计一个产品的会员体系？需要注意什么？ - 知乎</A>
-                </DL><p>
-                <DT><H3 >网站整理</H3>
-                <DL><p>
-                    <DT><H3 >搜索类</H3>
-                    <DL><p>
-                        <DT><A HREF="https://www.baidu.com/"  >百度一下，你就知道</A>
-                        <DT><A HREF="https://www.sogou.com/"  >搜狗搜索引擎 - 上网从搜狗开始</A>
-                        <DT><A HREF="https://www.google.com.hk/?gws_rd=ssl" >Google</A>
-                        <DT><A HREF="http://www.gsdata.cn/" >清博指数-新媒体大数据平台</A>
-                    </DL><p>
-                    <DT><H3 >门户类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://tech.163.com/" >网易科技频道_有态度的科技门户</A>
-                        <DT><A HREF="http://tech.qq.com/" >科技频道_腾讯网</A>
-                        <DT><A HREF="http://it.sohu.com/" >搜狐科技</A>
-                    </DL><p>
-                    <DT><H3 >硬件类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://www.leiphone.com/category/sponsor" >互联网新闻_科技业界新闻_互联网信息技术-雷锋网</A>
-                        <DT><A HREF="http://www.huahuo.com/"  >智能硬件第一网站_花火网</A>
-                        <DT><A HREF="http://www.geekpark.net/" >只为商业新变量 | 极客公园</A>
-                    </DL><p>
-                    <DT><H3 >O2O类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://www.pintu360.com/" >品途商业评论|发现商业创新</A>
-                        <DT><A HREF="http://www.iyiou.com/" >亿欧_产业创新服务平台</A>
-                    </DL><p>
-                    <DT><H3 >电商类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://www.ebrun.com/" >亿邦动力网 - 电子商务新闻门户</A>
-                        <DT><A HREF="http://www.paidai.com/" >派代网 - 做电商,上派代</A>
-                    </DL><p>
-                    <DT><H3 >新媒体类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://report.newrank.cn/index.html?bindType=report" >报告分析</A>
-                    </DL><p>
-                    <DT><H3 >运营类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://www.niaogebiji.com/" >鸟哥笔记-移动互联网第一干货平台！</A>
-                    </DL><p>
-                    <DT><H3 >潮品类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://www.pingwest.com/" >PingWest品玩 |  有品好玩的科技，一切与你有关</A>
-                        <DT><A HREF="http://www.ifanr.com/" >爱范儿 · 报道未来，服务新生活引领者</A>
-                    </DL><p>
-                    <DT><H3 >游戏类</H3>
-                    <DL><p>
-                        <DT><A HREF="http://youxiputao.com/" >游戏葡萄 | 有判断有前瞻的游戏行业媒体</A>
-                    </DL><p>
-                    <DT><H3 >技术类</H3>
-                    <DL><p>
-                        <DT><A HREF="https://segmentfault.com/" >SegmentFault</A>
-                    </DL><p>
-                </DL><p>
-                <DT><H3 >大数据</H3>
-                <DL><p>
-                    <DT><A HREF="http://www.iyunying.org/seo/dataanalysis/76646.html" >大数据真的能帮助你了解消费者购买意图吗? | 网站运营</A>
-                </DL><p>
-                <DT><H3 >消费金融</H3>
-                <DL><p>
-                    <DT><A HREF="http://www.199it.com/archives/500925.html" >招商证券：消费金融深度研报 消费快速崛起，金融大有可为（附下载） | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT</A>
-                    <DT><A HREF="http://www.199it.com/archives/553848.html" >百分点：2016中国消费金融品牌口碑指数（附下载） | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT</A>
-                    <DT><A HREF="http://www.199it.com/archives/576814.html" >2017年中国电信互联网金融大数据报告 | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT</A>
-                    <DT><A HREF="http://www.199it.com/archives/568728.html" >零壹财经&amp;口袋理财：2016年全球金融科技投融资与指数报告（附下载） | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT</A>
-                    <DT><A HREF="http://www.199it.com/archives/442862.html" >蚂蚁金服研究院：2016年中国消费金融趋势报告 | 互联网数据中心-199IT | 中文互联网数据研究资讯中心-199IT</A>
-                    <DT><A HREF="http://www.jiemian.com/article/1103743.html" >我追了12个月的金融App排行榜，最大的感触是......|界面新闻•JMedia</A>
-                    <DT><A HREF="http://www.woshipm.com/it/167494.html" >垂直P2P起飞，创业风口再现 | 人人都是产品经理</A>
-                    <DT><A HREF="http://bbs.wdzj.com/thread-838127-1-1.html" >网贷平台发展指数评级（2016年6月100家平台）-网贷评级-研究院-【网贷之家论坛】</A>
-                    <DT><A HREF="http://bbs.wdzj.com/thread-912147-1-1.html" >网贷平台发展指数评级（2017年1月100家平台）-网贷评级-研究院-【网贷之家论坛】</A>
-                    <DT><A HREF="http://www.woshipm.com/it/165281.html" >互联网金融-P2P网贷模式分析 | 人人都是产品经理</A>
-                    <DT><A HREF="http://www.woshipm.com/operate/251115.html" >互联网金融如何做好流量（一） | 人人都是产品经理</A>
-                    <DT><A HREF="http://www.woshipm.com/it/251688.html" >互联网金融如何做好流量（二） | 人人都是产品经理</A>
-                    <DT><A HREF="http://www.woshipm.com/it/252501.html" >互联网金融如何做好流量（三） | 人人都是产品经理</A>
-                    <DT><A HREF="http://www.woshipm.com/evaluating/263418.html" >唯品金融运营分析报告 | 人人都是产品经理</A>
-                    <DT><A HREF="http://finance.jrj.com.cn/biz/2015/11/30162420159134.shtml" >解密平安普惠：马明哲构想了一个怎样的消费金融帝国？-商业频道-金融界</A>
-                    <DT><A HREF="https://www.touzi.com/news/021160-55449.html" >互联网金融P2P借贷的平台商业模式详细分析 - 中投在线</A>
-                </DL><p>
-                <DT><H3 >竞品分析调研报告</H3>
-                <DL><p>
-                    <DT><A HREF="http://www.enkj.com/idcnews/Article/20160218/8994" >如何做竞品分析报告 - 亿恩科技</A>
-                    <DT><A HREF="http://www.chinaz.com/manage/2016/0518/532638.shtml" >如何写出一份有价值的竞品分析报告 - 站长之家</A>
-                    <DT><A HREF="http://www.woshipm.com/discuss/105607.html" >【人人圆桌】第四期：竞品分析报告模版 | 人人都是产品经理</A>
-                    <DT><A HREF="http://www.woshipm.com/evaluating/630037.html" >从0到∞｜谈谈红包类产品的设计之道（竞品分析） | 人人都是产品经理</A>
-                    <DT><A HREF="http://www.woshipm.com/evaluating/627839.html" >飞行信息类竞品分析：基于大数据的航旅APP，是如何优化用户出行？ | 人人都是产品经理</A>
-                    <DT><A HREF="http://mt.sohu.com/20150725/n417518291.shtml" >P2P网贷APP竞品分析-搜狐</A>
-                </DL><p>
-                <DT><H3 >排名</H3>
-                <DL><p>
-                    <DT><A HREF="http://www.southmoney.com/P2P/201702/1077600.html" >P2P网贷平台排名：2017年1月网贷行业平台数据排名一览 - 南方财富网</A>
-                    <DT><A HREF="http://news.ifeng.com/a/20161128/50327330_0.shtml" >P2P网贷平台成交量排行榜:红岭创投居榜首_凤凰资讯</A>
-                    <DT><A HREF="http://www.wdzj.com/news/yybb/52221.html" >最新P2P网贷平台贷款余额、成交量排行榜TOP100_平台运营播报_网贷资讯_网贷之家</A>
-                </DL><p>
-                <DT><H3 >活动策划</H3>
-                <DL><p>
-                    <DT><H3 >微信现金红包</H3>
-                    <DL><p>
-                        <DT><A HREF="http://jingyan.baidu.com/article/b907e627b59db746e7891c37.html" >新版微信公众号微信支付如何申请 怎样开通_百度经验</A>
-                        <DT><A HREF="https://zhidao.baidu.com/question/987911959183821019.html" >微信支付开通不了现金红包功能，公众号还能发红包吗?_百度知道</A>
-                    </DL><p>
-                    <DT><H3 >幸运大转盘</H3>
-                    <DL><p>
-                        <DT><A HREF="http://www.docin.com/p-1792713063.html" >幸运大转盘活动策划方案 - 豆丁网</A>
-                        <DT><A HREF="https://wenku.baidu.com/view/35216024a45177232f60a252.html" >幸运转盘活动执行方案_百度文库</A>
-                        <DT><A HREF="https://www.zhihu.com/question/31602439" >网络上的大转盘活动抽奖类型是否具有随机性？ - 知乎</A>
-                    </DL><p>
-                    <DT><H3 >爱心捐赠</H3>
-                    <DL><p>
-                        <DT><A HREF="https://wenku.baidu.com/view/56b003c54693daef5ef73d54.html?from=search" >【图文】大型公益慈善活动策划方案_百度文库</A>
-                        <DT><A HREF="http://news.xinhuanet.com/gongyi/2015-03/03/c_127537351.htm" >捐出红包做公益 谁来监管？-公益频道-新华网</A>
-                    </DL><p>
-                </DL><p>
+            </DL><p>    
         </DL><p>
     </DL><p>
 </DL><p> 
